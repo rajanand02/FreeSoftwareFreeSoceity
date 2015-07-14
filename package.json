@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": git@github.com:rajanand02/FreeSoftwareFreeSociety.git""
+    "url": "git@github.com:rajanand02/FreeSoftwareFreeSociety.git"
   },
   "engines": {
     "node": "~0.10.0"
